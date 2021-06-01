@@ -1,3 +1,3 @@
 # My reposirory for learning **DevOps** courses at Andersen
-### AboutME.Shortly about myself
-### TIL.Blog of my results. 
+### [AboutME](http://github.com/valikorsh/DevOps/tree/main/AboutME)
+### [TIL](https://github.com/valikorsh/DevOps/tree/main/TIL) 
